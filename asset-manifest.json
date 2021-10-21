@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ridth43/create-mini-app.git/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/Ridth43/create-mini-app.git/static/js/main.3815a47c.chunk.js",
+    "main.js.map": "/Ridth43/create-mini-app.git/static/js/main.3815a47c.chunk.js.map",
+    "runtime-main.js": "/Ridth43/create-mini-app.git/static/js/runtime-main.b4866cda.js",
+    "runtime-main.js.map": "/Ridth43/create-mini-app.git/static/js/runtime-main.b4866cda.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/Ridth43/create-mini-app.git/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.eec0ee9d.chunk.js": "/Ridth43/create-mini-app.git/static/js/2.eec0ee9d.chunk.js",
+    "static/js/2.eec0ee9d.chunk.js.map": "/Ridth43/create-mini-app.git/static/js/2.eec0ee9d.chunk.js.map",
+    "index.html": "/Ridth43/create-mini-app.git/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/Ridth43/create-mini-app.git/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/Ridth43/create-mini-app.git/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.eec0ee9d.chunk.js.LICENSE.txt": "/Ridth43/create-mini-app.git/static/js/2.eec0ee9d.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/Ridth43/create-mini-app.git/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4866cda.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.eec0ee9d.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.3815a47c.chunk.js"
+  ]
+}
